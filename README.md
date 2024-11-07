@@ -1,0 +1,1 @@
+- NGCabeleireiro é um site de cabeleireiro que eu criei para praticar minhas habilidades de front-end utilizando: HTML, CSS e JavaScript
